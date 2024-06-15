@@ -1,0 +1,11 @@
+a = float(input("Type the First Number"))
+b = float(input("Type the Second Number"))
+print("The Sum of Two Numbers is : ", a + b)
+print("The Difference of Two Numbers is: ", a - b)
+print("The Product of Two Numbers is : ", a * b)
+print("The Division of Two Numbers is : ", a / b)
+print("The Floor Division of two number is : ", a // b)
+print(" The reminder of two number is : ", a % b)
+print(" The power of two number is : ", a**b)
+
+print("\nHow was it")
